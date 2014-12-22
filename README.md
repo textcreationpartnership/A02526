@@ -36,9 +36,18 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Contemplations vpon the principal passages of the holy story. The second volume; in foure books. By 
+
+1. TO
+THE HIGH
+AND MIGHTIE
+PRINCE CHARLES,
+PRINCE OF GREAT
+BRITAINE.
+
 #####Back#####
-Contemplations vpon the principal passages of the holy story. The second volume; in foure books. By 
+
+1. Faults of the Presse thus to be corrected.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
